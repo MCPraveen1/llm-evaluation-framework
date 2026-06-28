@@ -25,3 +25,9 @@ python main.py
 
 ## Sample Output
 (screenshot of your final results table)
+
+
+## Sample Output
+
+![Evaluation Results](screenshots/evaluation_results.png)
+
